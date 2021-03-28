@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "netlify-lambda": "^2.0.3"
+    "netlify-lambda": "^2.0.3",
+    "nodemailer": "^6.5.0",
+    "puppeteer": "^8.0.0"
   }
 }
