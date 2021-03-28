@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chrome-aws-lambda": "^8.0.0",
     "netlify-lambda": "^2.0.3",
     "nodemailer": "^6.5.0",
-    "puppeteer": "^8.0.0"
+    "puppeteer": "^8.0.0",
+    "puppeteer-core": "^8.0.0"
   }
 }
